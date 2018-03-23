@@ -22,6 +22,9 @@ This library is essential because it contains all the components and tools for y
 if you know how to program in HTML, CSS, JQuery, Javascript you can modify, add , delete 
 components 
 
+# Author
+Yasser Ameur el idrissi
+
 # spookyCLI
 SpookyCLI is written entirely in JAVA. 
 Contributing (link :https://github.com/getspooky/getspooky)
